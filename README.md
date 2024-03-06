@@ -114,3 +114,14 @@ https://github.com/mousecpn/DMC-Domain-Generalization-for-Underwater-Object-Dete
 
 https://github.com/mDp0r/FishDet
 
+### WPBB
+
+**Introduction**
+
+Paper: [Towards More Efficient EfficientDets and Real-Time Marine Debris Detection](https://ieeexplore.ieee.org/document/10044917)
+
+WPBB is a detection dataset of in-water plastic bags and bottles, which is comprised of annotated images (900 images currently). It contains 2 common categories: plastic bags and plastic bottles. The training set and test set are randomly split into 720 and 180, respectively.
+
+**Download**
+
+https://github.com/fedezocco/MoreEffEffDetsAndWPBB-TensorFlow
