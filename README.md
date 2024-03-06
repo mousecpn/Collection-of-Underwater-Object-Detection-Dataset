@@ -122,6 +122,24 @@ Paper: [Towards More Efficient EfficientDets and Real-Time Marine Debris Detecti
 
 WPBB is a detection dataset of in-water plastic bags and bottles, which is comprised of annotated images (900 images currently). It contains 2 common categories: plastic bags and plastic bottles. The training set and test set are randomly split into 720 and 180, respectively.
 
+![image](https://github.com/mousecpn/Collection-of-Underwater-Object-Detection-Dataset/assets/46233799/7e3c4d82-baff-4d68-b6ba-4c9db05e9bf1)
+
+
 **Download**
 
 https://github.com/fedezocco/MoreEffEffDetsAndWPBB-TensorFlow
+
+### DeepFish
+
+**Introduction**
+
+[A realistic fish-habitat dataset to evaluate algorithms for underwater visual analysis
+](https://www.nature.com/articles/s41598-020-71639-x)
+
+The dataset consists of approximately 40 thousand images collected underwater from 20 habitats in the marine-environments of tropical Australia. The dataset originally contained only classification labels. Thus, we collected point-level and segmentation labels to have a more comprehensive fish analysis benchmark. Videos for DeepFish were collected for 20 habitats from remote coastal marine environments of tropical Australia. These videos were acquired using cameras mounted on metal frames, deployed over the side of a vessel to acquire video footage underwater. The cameras were lowered to the seabed and left to record the natural fish community, while the vessel maintained a distance of 100 m. The depth and the map coordinates of the cameras were collected using an acoustic depth sounder and a GPS, respectively. Video recording was carried out during daylight hours and in relatively low turbidity periods. The video clips were captured in full HD resolution (1920 × 1080 pixels) from a digital camera. In total, the number of video frames taken is 39,766.
+
+![image](https://github.com/mousecpn/Collection-of-Underwater-Object-Detection-Dataset/assets/46233799/28e3bb2d-f50f-4a06-bcda-c6928213e463)
+
+**Download**
+
+https://github.com/alzayats/DeepFish.git
