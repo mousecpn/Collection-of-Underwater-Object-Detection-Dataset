@@ -143,3 +143,18 @@ The dataset consists of approximately 40 thousand images collected underwater fr
 **Download**
 
 https://github.com/alzayats/DeepFish.git
+
+### SUIM dataset
+
+**Introduction**
+
+[Semantic Segmentation of Underwater Imagery: Dataset and Benchmark](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9340821)
+
+This paper presents the first large-scale dataset for semantic Segmentation of Underwater IMagery (SUIM). It contains over 1500 images with pixel annotations for eight object categories: fish (vertebrates), reefs (invertebrates), aquatic plants, wrecks/ruins, human divers, robots, and sea-floor. The images are rigorously collected during oceanic explorations and human-robot collaborative experiments, and annotated by human participants.
+
+![image](https://github.com/user-attachments/assets/55afccf0-06cb-43a6-a209-bf13c9a02ac1)
+
+
+**Download**
+
+https://irvlab.cs.umn.edu/image-segmentation/suim
