@@ -93,7 +93,7 @@ https://github.com/mousecpn/DG-YOLO
 
 
 
-### S-UTDAC2020
+### S-UODAC2020
 
 **Introduction**
 
@@ -105,7 +105,7 @@ Four classes: echinus, holothurian, scallop, starfish
 
 https://github.com/mousecpn/DMC-Domain-Generalization-for-Underwater-Object-Detection
 
-![image](https://user-images.githubusercontent.com/46233799/179469116-ef7a2fc3-81c8-4170-8a4d-5cd218603c83.png)
+<img width="447" alt="image" src="https://github.com/user-attachments/assets/d5c7fbb0-0b30-498b-9f14-fb19636cf119">
 
 
 ### FishDet
