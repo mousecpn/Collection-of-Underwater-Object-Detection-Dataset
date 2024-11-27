@@ -24,7 +24,7 @@ https://github.com/mousecpn/Boosting-R-CNN-Reweighting-R-CNN-Samples-by-RPN-s-Er
 
 Paper: [Underwater Species Detection using Channel Sharpening Attention](https://www.researchgate.net/profile/Xin-Fan-2/publication/355375809_Underwater_Species_Detection_using_Channel_Sharpening_Attention/links/617b4f650be8ec17a9424b49/Underwater-Species-Detection-using-Channel-Sharpening-Attention.pdf)
 
-Four classes: echinus, holothurian, scallop, starfish
+Four classes: sea cucumber, sea urchin, scallop
 
 **Download**
 
